@@ -1,6 +1,5 @@
 title: Adelle Raymond
 description: Programming Portfolio
-logo: https://github.com/adolthefruitbol/adolthefruitbol.github.io/blob/main/memyselfandi.jpg
 remote_theme: pages-themes/hacker@v0.2.0
 plugins:
 - jekyll-remote-theme
