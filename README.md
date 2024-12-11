@@ -8,9 +8,10 @@ A text-based adventure game demonstrating object-oriented programming in C#. You
 
 **Screenshot**
 ![Title Screen](https://github.com/adolthefruitbol/adolthefruitbol.github.io/blob/main/KingsEndIntroScreen.png)
+
 **Additional Information**
--**Technical Details:**
-<br /> The main three principles are demonstrated throughout this game: Encapsulation, Inheritance, and Polymorphism.
+- **Technical Details:**
+- The main three principles are demonstrated throughout this game: Encapsulation, Inheritance, and Polymorphism.
 
 ### Craft
 **Description:**  
