@@ -17,11 +17,11 @@ A text-based adventure game demonstrating object-oriented programming in C#. You
 
 ### Craft
 **Description:**  
-Craft is a game where the player builds and crafts items using various materials gathered throughout the world. The game features an inventory system, crafting recipes, and a resource gathering mechanic.
+Craft is a program that allows you to craft items using various materials gathered. The game features an inventory system and a crafting mechanic.
 
 **Screenshots:**  
-![Craft Game Screenshot](link_to_screenshot1.jpg)  
-![Craft Game Inventory](link_to_screenshot2.jpg)
+![Craft Game Screenshot](Craft1.jpg)  
+![Craft Game Inventory](Craft2.jpg)
 
 **Additional Information:**  
 - **Technical Details:**  
