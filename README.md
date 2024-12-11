@@ -21,7 +21,7 @@ Craft is a program that allows you to craft items using various materials gather
 
 **Screenshots:**  
 ![Craft Game Screenshot](Craft1.jpg)  
-![Craft Game Inventory](Craft2.jpg)
+![Craft Game Screenshot2](Craft2.jpg)
 
 **Additional Information:**  
 - **Technical Details:**  
@@ -40,8 +40,8 @@ Craft is a program that allows you to craft items using various materials gather
 This project is a card game framework that allows for the creation of various card games, using polymorphism, inheritance, and encapsulation in C# to manage different game rules and card types.
 
 **Screenshots:**  
-![Card Game UI](link_to_screenshot1.jpg)  
-![Card Game Logic](link_to_screenshot2.jpg)
+![Card Game UI](CardGame2.jpg)  
+![Card Game Logic](CardGame1.jpg)
 
 **Additional Information:**  
 - **Technical Details:**  
@@ -98,7 +98,8 @@ A weather data application built using WPF that allows users to view current wea
 A Wordle-inspired game where players try to guess a word within six attempts based on feedback for each guess.
 
 **Screenshots:**  
-![Ordle Game Screenshot](link_to_screenshot1.jpg)
+![Ordle Game Screenshot](OrdleSC1.png)
+![Ordle Game Screenshot](OrdleSC2.png)
 
 **Additional Information:**  
 - **Technical Details:**  
