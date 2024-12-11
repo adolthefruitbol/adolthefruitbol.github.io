@@ -7,11 +7,13 @@
 A text-based adventure game demonstrating object-oriented programming in C#. You play as Macbeth and must find and assassinate the king during the ball. Don't get caught!
 
 **Screenshot**
-![Title Screen](https://github.com/adolthefruitbol/adolthefruitbol.github.io/blob/main/KingsEndIntroScreen.png)
+![Title Screen](/assets/images/KingsEndIntroScreen.png)
 
 **Additional Information**
 - **Technical Details:**
 - The main three principles are demonstrated throughout this game: Encapsulation, Inheritance, and Polymorphism.
+
+---
 
 ### Craft
 **Description:**  
