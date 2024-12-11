@@ -60,8 +60,8 @@ This project is a card game framework that allows for the creation of various ca
 My Bracken Cave Simulation simulates an ecosystem with various entities like bats, bugs, and crops interacting with each other. The player manages the ecosystem and balances resources to prevent ecological collapse.
 
 **Screenshots:**  
-![Simulation UI](link_to_screenshot1.jpg)  
-![Simulation Ecosystem](link_to_screenshot2.jpg)
+![Simulation UI](BC1.jpg)  
+![Simulation Ecosystem](BC2.jpg)
 
 **Additional Information:**  
 - **Technical Details:**  
@@ -82,7 +82,7 @@ My Bracken Cave Simulation simulates an ecosystem with various entities like bat
 A weather data application built using WPF that allows users to view current weather information based on input location. The app retrieves data from an external API and displays it in a clean UI.
 
 **Screenshots:**  
-![Weather App UI](link_to_screenshot1.jpg)
+![Weather App UI](WeatherApp.PNG)
 
 **Additional Information:**  
 - **Technical Details:**  
