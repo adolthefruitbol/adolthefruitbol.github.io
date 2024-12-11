@@ -7,7 +7,7 @@
 A text-based adventure game demonstrating object-oriented programming in C#. You play as a high lord who must find and assassinate the king during the ball. Don't get caught!
 
 **Screenshot:**
-![Title Screen](/main/KingsEndIntroScreen.png)
+![Title Screen](KingsEndIntroScreen.png)
 
 **Additional Information**
 - **Technical Details:**
