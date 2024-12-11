@@ -4,10 +4,10 @@
 
 ### King's End
 **Description**
-A text-based adventure game demonstrating object-oriented programming in C#. You play as Macbeth and must find and assassinate the king during the ball. Don't get caught!
+A text-based adventure game demonstrating object-oriented programming in C#. You play as a high lord who must find and assassinate the king during the ball. Don't get caught!
 
-**Screenshot**
-![Title Screen](/assets/images/KingsEndIntroScreen.png)
+**Screenshot:**
+![Title Screen](/main/KingsEndIntroScreen.png)
 
 **Additional Information**
 - **Technical Details:**
