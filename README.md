@@ -25,19 +25,16 @@ Craft is a program that allows you to craft items using various materials gather
 
 **Additional Information:**  
 - **Technical Details:**  
-  - Implemented using Unity with C# for scripting.  
-  - Features an inventory system using a custom data structure (Dictionary).  
   - The crafting mechanic is based on a system that checks for item combinations from a list of recipes.
 
 - **Challenges Solved:**  
-  - Creating a dynamic inventory system that updates based on item use.
-  - Implementing a crafting recipe UI that only displays possible recipes based on the player's current inventory.
+  - Importing data from a XAML
 
 ---
 
 ### Card Game Framework
 **Description:**  
-This project is a card game framework that allows for the creation of various card games, using polymorphism, inheritance, and encapsulation in C# to manage different game rules and card types.
+This project is a card game framework that allows for creating various card games, using polymorphism, inheritance, and encapsulation in C# to manage different game rules and card types.
 
 **Screenshots:**  
 ![Card Game UI](CardGame2.jpg)  
@@ -87,8 +84,7 @@ A weather data application built using WPF that allows users to view current wea
 **Additional Information:**  
 - **Technical Details:**  
   - Uses WPF for the UI and C# for back-end functionality.  
-  - Weather data is fetched using an API (such as OpenWeatherMap API).  
-  - Implements asynchronous tasks to handle network requests without blocking the UI thread.
+  - Weather data is fetched using an API.  
 
 
 ---
